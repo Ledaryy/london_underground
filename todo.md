@@ -23,3 +23,34 @@
 Tech: Python, Django, Javascript, React, Babel, Webpack, NodeJS
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(True steps)
+1. Hatred
+2. Suffering
+3. Defeat
+4. Suffering
+5. Hatred
+6. Defeat
+7. Hatred
+8. Hated
+9. Utter hatred
+10. SUCCESS! (No, go back to num 1)
