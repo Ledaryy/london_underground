@@ -1,4 +1,3 @@
-import Item from 'antd/lib/list/Item';
 import React, { Component } from 'react'
 import { MenuItems } from "./MenuItems";
 import './Navbar.css'
@@ -40,6 +39,7 @@ class Navbar extends Component {
                 </ul>
                 <Button>Sign Up</Button>
             </nav>
+            
         )
     }
 }
