@@ -1,13 +1,17 @@
 import './App.css';
 import React from 'react';
 import Navbar from "./components/Navbar/Navbar"
+import Footer from "./components/Footer/Footer"
 
 import Map from './components/map'
 
 function App() {
   return (
-    <Navbar></Navbar>
-  )
+    <div>
+      <Navbar></Navbar>
+      <Footer></Footer>
+    </div>
+    )
 }
 
 // map module
