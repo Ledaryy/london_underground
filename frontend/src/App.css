@@ -1,4 +1,7 @@
-#mapid { height: 580px; }
+#mapid { 
+    height: 780px;
+    background: white;
+}
 
 * {
     box-sizing: border-box;
