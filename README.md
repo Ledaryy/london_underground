@@ -15,10 +15,11 @@
 
 ## What was done:
 - Django + React setup
+- CSS and HTML
 - Mobile responsive navigation bar
-- CSS
-- Zoomable london underground map (5 scales, and more than 1000 pieces!)
-<img src="https://media.giphy.com/media/yOjYE8Vj6wyAjBlCDv/giphy.gif"/>
+- Mobile responsive footer bar
+- Zoomable london underground map (5 scales, and more than 1000 pieces!) -> New! 6 scales, 4800 pieces
+<img src="https://media.giphy.com/media/t69NEdJ3ZUSpy8bzmc/giphy.gif"/>
 
 
 ## Quick installation guide:
