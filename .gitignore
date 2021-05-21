@@ -1,5 +1,1 @@
-underground/db.sqlite3
-underground/underground/settings.py
-node_modules/
-underground/assets/.env.local
-underground/assets/map/
+backend/underground/underground/settings.py
