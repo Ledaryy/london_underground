@@ -1,1 +1,6 @@
 backend/underground/underground/settings.py
+backend/underground/api/__pycache__/
+backend/underground/underground/__pycache__/
+backend/underground/map/migrations/__pycache__/
+backend/underground/map/__pycache__/
+static/
