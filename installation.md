@@ -31,5 +31,5 @@ virtualenv venv
 - (venv) ``` python manage.py runserver ```
 
 - ### Webpack
-- Navigate to frontend folder
+- Navigate to frontend folder (with cd and cd..)
 - (venv) ``` npm run dev ```
